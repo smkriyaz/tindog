@@ -1,0 +1,101 @@
+.pink{
+    background-color:#ff4c68 ;
+}
+h1{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 3rem;
+    color: #fff;
+    font-family: 4rem;
+}
+h1:hover{
+    color:black;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: 20px;
+    margin-top: 10px;
+    color:#fff
+}
+.row{
+    padding:50px;
+}
+ 
+.riyaz{
+    margin:5% 3% 5% 0%
+}
+.dog{
+    width: 40%;
+  transform: rotate(25deg);
+   
+}
+.kl{
+    text-align: center;
+}
+.smk{
+    color: orange;
+    padding:20px;
+ 
+}
+.smk:hover{
+    color:#ff4c68
+}
+ #testimonials{ 
+    text-align: center;
+   
+ 
+   
+    height: 50%;
+    
+}
+.dog2{
+   
+    width:10%;
+    border-radius: 100%;
+    margin-top: 2%;
+    margin-bottom: 40px;
+   
+}
+ #press{ 
+   
+    text-align: center;
+    padding: auto;
+ 
+ padding-top: 80px;
+ padding-bottom:80px ;
+ 
+ }
+.color{
+    background-color:#ff4c68 ;
+    
+}
+h2{
+  padding-top: 50px;
+  font-size: 3rem;
+  font-weight: 3rem;
+}
+
+.top{
+padding-left: 20px;
+text-align: center;
+
+}
+#pricing{
+ padding: 50px;
+ padding-top: 0;
+ padding-bottom: 0;
+}
+.card3{
+   padding-bottom: 0px;
+}
+#cta{
+   text-align: center;
+}
+h3{
+    font-size: 2rem;
+}
+
+#footer{
+    text-align: center;
+}
+
